@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Pacchu04
-- 👀 I’m interested in Data science 
-- 🌱 I’m currently learning ML projects.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Prashanth 
+- 👀 I’m interested in AI and ML 
+- 🌱 I’m currently working on AI and ML projects.
+
 
 <!---
 Pacchu04/Pacchu04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
