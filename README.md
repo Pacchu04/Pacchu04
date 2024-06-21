@@ -1,3 +1,5 @@
+Welcome to my GitHub profile! I am an enthusiastic and dedicated Artificial Intelligence & Machine Learning student with a passion for solving complex problems and a keen interest in applying advanced technologies to real-world scenarios.
+
 - 👋 Hi, I’m Prashanth 
 - 👀 I’m interested in AI and ML 
 - 🌱 I’m currently working on AI and ML projects.
